@@ -1,1 +1,2 @@
 A small feature is added
+Changes made by User2
