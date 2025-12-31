@@ -1,0 +1,3 @@
+Welcome to Git
+This line will be modified
+End of the file
