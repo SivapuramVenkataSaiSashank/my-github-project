@@ -1,3 +1,3 @@
 Welcome to Git
-This line will be modified
+Modified by user2 in branch-Y
 End of the file
